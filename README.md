@@ -6,7 +6,7 @@ If you'd like to start in the meantime you can build the project from scratch fo
 - Built using React.js >= 19 using Create React App
 - Use the `--template typescript` template when you init the Create React App
 - Write all code in Typescript not Javascript
-- We prefer the use of (MaterialUI)[https://mui.com/material-ui/getting-started] for components but you can use whatever you like.
+- We prefer the use of [MaterialUI](https://mui.com/material-ui/getting-started) for components but you can use whatever you like.
 - Build something that resembles the example image below
 
 Goal:
