@@ -1,5 +1,5 @@
 # Welcome
-This will be the home of the start code for the Spark! SE assessment start January 20th at 5 PM.
+This will be the home of the starter code for the Spark! SE assessment start January 20th at 5 PM.
 
 If you'd like to start in the meantime you can build the project from scratch following the requirements:
 
