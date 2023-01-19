@@ -21,4 +21,4 @@ You can explore the API routes using the Swagger UI(it might take ~15s to load):
 
 Example Image:
 
-![](example.png)
+![](image.png)
